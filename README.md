@@ -1,6 +1,5 @@
 # Sample-ASP.NET-project
 
-#Edited
 
 Steps to run this ASP.NET project
 
